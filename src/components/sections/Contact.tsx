@@ -1,5 +1,6 @@
 
 import { cn } from "@/lib/utils";
+import { Linkedin } from "lucide-react";
 
 interface ContactProps {
   className?: string;
@@ -65,8 +66,13 @@ export function Contact({ className }: ContactProps) {
               Connect
             </h3>
             <div className="flex gap-3 mt-[31px]">
-              <a href="#" className="hover:opacity-80 transition-opacity">
-                <img src="https://cdn.builder.io/api/v1/image/assets/4f4a5d4edc254f56a8288e3c75618f35/0cb76a973b01603025412baceb1de0cb9ae96e6f?placeholderIfAbsent=true" alt="Social Media" className="w-11 h-11 rounded-full" />
+              <a 
+                href="https://www.linkedin.com/in/andrecarvalhomba/" 
+                target="_blank" 
+                rel="noopener noreferrer"
+                className="hover:opacity-80 transition-opacity flex items-center justify-center bg-blue-600 text-white w-11 h-11 rounded-full"
+              >
+                <Linkedin className="w-6 h-6" />
               </a>
               <a href="#" className="hover:opacity-80 transition-opacity">
                 <img src="https://cdn.builder.io/api/v1/image/assets/4f4a5d4edc254f56a8288e3c75618f35/932729f4df0bb3302c4f12972226b04a3a78e034?placeholderIfAbsent=true" alt="Social Media" className="h-11" />
