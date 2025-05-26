@@ -1,3 +1,4 @@
+
 import { cn } from "@/lib/utils";
 
 interface HeroProps {
@@ -13,13 +14,13 @@ export function Hero({ className }: HeroProps) {
             <h1 className="text-white text-[41px] font-bold leading-none mr-[47px] max-md:mr-2.5">
               Financial Planning & Analysis
             </h1>
-            <p className="mt-[46px]">
+            <p className="mt-8">
               I work with companies to bridge the gap between financial data and business strategy,
             </p>
-            <p className="mt-[13px]">
+            <p className="mt-8">
               transforming fragmented decision-making into integrated performance management:
             </p>
-            <p className="text-[rgba(195,212,240,1)] leading-7 mt-[5px]">
+            <p className="text-[rgba(195,212,240,1)] leading-7 mt-8">
               that accelerates growth and strengthens competitive advantage.
               <br />
               enabling leadership teams to make faster, more informed decisions.
