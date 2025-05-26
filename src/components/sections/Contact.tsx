@@ -82,6 +82,9 @@ export function Contact({ className }: ContactProps) {
               >
                 <Github className="w-6 h-6" />
               </a>
+              <a href="#" className="hover:opacity-80 transition-opacity">
+                <img src="https://cdn.builder.io/api/v1/image/assets/4f4a5d4edc254f56a8288e3c75618f35/932729f4df0bb3302c4f12972226b04a3a78e034?placeholderIfAbsent=true" alt="Social Media" className="h-11" />
+              </a>
             </div>
           </div>
         </div>
