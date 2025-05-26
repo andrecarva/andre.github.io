@@ -12,10 +12,8 @@ export function About({ className }: AboutProps) {
           <div className="flex gap-5 max-md:flex-col">
             <div className="w-[74%] max-md:w-full">
               <div className="flex flex-col">
-                <div className="flex flex-col items-stretch text-[26px] text-blue-900 font-bold text-center w-[119px]">
-                  <h2>About Me</h2>
-                  <div className="bg-blue-900 self-center w-20 h-1 mt-[25px]" />
-                </div>
+                <h2 className="text-blue-900 text-[26px] font-bold">About Me</h2>
+                <div className="bg-blue-900 w-20 h-1 mt-[25px]" />
                 
                 <h3 className="text-gray-800 text-xl font-bold leading-loose mt-[23px]">
                   Financial Analyst & Investment Strategist
