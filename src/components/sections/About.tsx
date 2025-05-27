@@ -16,7 +16,7 @@ export function About({ className }: AboutProps) {
                 <div className="bg-blue-900 w-20 h-1 mt-[25px]" />
                 
                 <h3 className="text-gray-800 text-xl font-bold leading-loose mt-[23px]">
-                  Financial Analyst & Investment Strategist
+                  Financial Planning & Analysis
                 </h3>
                 
                 <div className="space-y-[11px] text-gray-600 text-sm font-normal leading-loose mt-[26px]">
