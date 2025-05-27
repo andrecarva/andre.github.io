@@ -27,7 +27,7 @@ export function Hero({ className }: HeroProps) {
             </p>
           </div>
 
-          <div className="bg-gray-100 shadow-[0px_4px_6px_-4px_rgba(0,0,0,0.1)] p-7.2 rounded-lg w-[120%]">
+          <div className="bg-gray-100 shadow-[0px_4px_6px_-4px_rgba(0,0,0,0.1)] p-7.2 rounded-lg w-[100%]">
             <h2 className="text-blue-900 text-[17px] font-bold leading-loose mb-[34px]">
               Professional Snapshot
             </h2>
