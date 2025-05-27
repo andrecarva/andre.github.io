@@ -14,16 +14,16 @@ export function Hero({ className }: HeroProps) {
             <h1 className="text-white text-[41px] font-bold leading-none mr-[47px] max-md:mr-2.5">
               Financial Planning & Analysis
             </h1>
-            <p className="mt-8">
+            <p className="mt-5">
               I work with companies to bridge the gap between financial data and business strategy,
             </p>
-            <p className="mt-8">
+            <p className="mt-5">
               transforming fragmented decision-making into integrated performance management:
             </p>
-            <p className="text-[rgba(195,212,240,1)] leading-7 mt-8">
-              that accelerates growth and strengthens competitive advantage.
+            <p className="text-[rgba(195,212,240,1)] leading-7 mt-5">
+               - that accelerates growth and strengthens competitive advantage.
               <br />
-              enabling leadership teams to make faster, more informed decisions.
+               - enabling leadership teams to make faster, more informed decisions.
             </p>
           </div>
 

@@ -9,7 +9,7 @@ export function Footer() {
                 André Carvalho
               </div>
               <div className="mt-[29px]">Financial Planning & Analysis</div>
-              <div className="mt-[35px]">Supporting organization to thrive !</div>
+              <div className="mt-[35px]">Supporting your organization to thrive !</div>
             </div>
             <div className="flex flex-col">
               <div className="text-white text-[15px] font-medium leading-loose">
